@@ -1,0 +1,17 @@
+D:\Нова папка\Lab4OOP\bin\Debug\net8.0-windows\Lab4OOP.exe
+D:\Нова папка\Lab4OOP\bin\Debug\net8.0-windows\Lab4OOP.deps.json
+D:\Нова папка\Lab4OOP\bin\Debug\net8.0-windows\Lab4OOP.runtimeconfig.json
+D:\Нова папка\Lab4OOP\bin\Debug\net8.0-windows\Lab4OOP.dll
+D:\Нова папка\Lab4OOP\bin\Debug\net8.0-windows\Lab4OOP.pdb
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.Form1.resources
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.Properties.Resources.resources
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.AssemblyInfo.cs
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.dll
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\refint\Lab4OOP.dll
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.pdb
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\Lab4OOP.genruntimeconfig.cache
+D:\Нова папка\Lab4OOP\obj\Debug\net8.0-windows\ref\Lab4OOP.dll
